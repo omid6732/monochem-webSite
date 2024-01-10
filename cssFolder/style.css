@@ -1,15 +1,15 @@
 /* Industo Industry HTML Template */
 
-@import url('global.css');
+@import url('https://cdn.jsdelivr.net/gh/omid6732/monochem-webSite@main/cssFolder/global.css');
 @import url('font-awesome.css');
 @import url('flaticon.css');
-@import url('animate.css');
-@import url('owl.css');
-@import url('slick.css');
-@import url('preloader.css');
-@import url('animation.css');
+@import url('https://cdn.jsdelivr.net/gh/omid6732/monochem-webSite@main/cssFolder/animate.css');
+@import url('https://cdn.jsdelivr.net/gh/omid6732/monochem-webSite@main/cssFolder/owl.css');
+@import url('https://cdn.jsdelivr.net/gh/omid6732/monochem-webSite@main/cssFolder/slick.css');
+@import url('https://cdn.jsdelivr.net/gh/omid6732/monochem-webSite@main/cssFolder/preloader.css');
+@import url('https://cdn.jsdelivr.net/gh/omid6732/monochem-webSite@main/cssFolder/animation.css');
 @import url('jquery-ui.css');
-@import url('custom-animate.css');
+@import url('https://cdn.jsdelivr.net/gh/omid6732/monochem-webSite@main/cssFolder/custom-animate.css');
 @import url('magnific-popup.css');
 @import url('odometer-theme-default.css');
 @import url('jquery.mCustomScrollbar.min.css');
