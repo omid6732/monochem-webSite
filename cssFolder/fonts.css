@@ -1,0 +1,14 @@
+		@font-face {
+			font-family: estedad-bold;
+			src: url(//industo/allfonts/Estedad-Bold.ttf);
+			font-family: estedad-medium;
+			src: url(//industo/allfonts/Estedad-Bold.ttf);
+			font-family: Pinar;
+			src: url(//industo/allfonts/Estedad-Bold.ttf);
+		}
+        /* h1,h2,h3 {
+			font-family: Pinar !important;
+		}
+		p,span,div {
+			font-family: estedad-bold !important;
+		} */
