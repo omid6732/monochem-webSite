@@ -1,18 +1,16 @@
-/* Industo Industry HTML Template */
-
 @import url('https://cdn.jsdelivr.net/gh/omid6732/monochem-webSite@main/cssFolder/global.css');
-@import url('font-awesome.css');
-@import url('flaticon.css');
+@import url('https://cdn.jsdelivr.net/gh/omid6732/monochem-webSite@main/cssFolder/font-awesome.css');
+@import url('https://cdn.jsdelivr.net/gh/omid6732/monochem-webSite@main/cssFolder/flaticon.css');
 @import url('https://cdn.jsdelivr.net/gh/omid6732/monochem-webSite@main/cssFolder/animate.css');
 @import url('https://cdn.jsdelivr.net/gh/omid6732/monochem-webSite@main/cssFolder/owl.css');
 @import url('https://cdn.jsdelivr.net/gh/omid6732/monochem-webSite@main/cssFolder/slick.css');
 @import url('https://cdn.jsdelivr.net/gh/omid6732/monochem-webSite@main/cssFolder/preloader.css');
 @import url('https://cdn.jsdelivr.net/gh/omid6732/monochem-webSite@main/cssFolder/animation.css');
-@import url('jquery-ui.css');
+@import url('https://cdn.jsdelivr.net/gh/omid6732/monochem-webSite@main/cssFolder/jquery-ui.css');
 @import url('https://cdn.jsdelivr.net/gh/omid6732/monochem-webSite@main/cssFolder/custom-animate.css');
-@import url('magnific-popup.css');
-@import url('odometer-theme-default.css');
-@import url('jquery.mCustomScrollbar.min.css');
+@import url('https://cdn.jsdelivr.net/gh/omid6732/monochem-webSite@main/cssFolder/magnific-popup.css');
+@import url('https://cdn.jsdelivr.net/gh/omid6732/monochem-webSite@main/cssFolder/odometer-theme-default.css');
+@import url('https://cdn.jsdelivr.net/gh/omid6732/monochem-webSite@main/cssFolder/jquery.mCustomScrollbar.min.css');
 
 /*** 
 
@@ -34,7 +32,9 @@
 	position: relative;
 	background-color: var(--color-two);
 }
-
+/* .owl-stage {
+	transform:none !important;
+} */
 .header-top .top-left {
 	position: relative;
 	float: left;
@@ -3079,7 +3079,6 @@
 	position: relative;
 	max-width: 180px;
 	z-index: 10;
-	margin: auto;
 }
 
 .project-section .btns-outer .title-box {
@@ -3090,8 +3089,6 @@
 .project-section .btns-outer .title-box h2 {
 	color: var(--white-color);
 	font-size: var(--font-40);
-	text-align: center;
-	
 }
 
 .project-section .btns-outer .btns-pattern-layer {
@@ -3177,9 +3174,8 @@
 
 .project-section .tabs-content .image {
 	position: relative;
-	margin-left: -125px;
+	margin-left: -180px;
 	padding-top: var(--padding-top-60);
-	margin-right: -100px;
 }
 
 .project-section .prod-tabs .tabs-content .tab {
